@@ -1,15 +1,16 @@
 <div align="center">
-
   <p>
     <a href="http://www.burbankparanormal.com" target="_blank">
       <img src="https://raw.githubusercontent.com/bprcalifornia/.github/main/profile/img/bpr_logo.webp" alt="Burbank Paranormal Research" title="Burbank Paranormal Research" />
     </a>
   </p>
-  
-  <h1>Burbank Paranormal Research</h1>
 </div>
-<div>
 
+# Burbank Paranormal Research
+
+## Overview
+
+<div>
   <p>
     This is the GitHub organization for the Burbank Paranormal Research team, specifically for engineering and IT operations.
   </p>
@@ -28,5 +29,10 @@
   <p>
     You will always be able to find the most up-to-date BPR systems in this organization!
   </p>
-
 </div>
+
+## Links
+
+* [BPR on Facebook](https://www.facebook.com/burbankparanormalresearch) (@burbankparanormalresearch)
+* [BPR on Twitter](https://twitter.com/bprcalifornia) (@bprcalifornia)
+* [BPR on LinkedIn](https://www.linkedin.com/company/burbank-paranormal-research) (@burbank-paranormal-research)
