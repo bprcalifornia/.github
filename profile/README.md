@@ -4,11 +4,10 @@
       <img src="https://raw.githubusercontent.com/bprcalifornia/.github/main/profile/img/bpr_logo.webp" alt="Burbank Paranormal Research" title="Burbank Paranormal Research" />
     </a>
   </p>
+  <h1>Burbank Paranormal Research</h1>
 </div>
 
-# Burbank Paranormal Research
-
-## Overview
+### Overview
 
 <div>
   <p>
@@ -30,11 +29,11 @@
   </p>
 </div>
 
-## Notable Repositories
+### Notable Repositories
 
 * [Automation](https://github.com/bprcalifornia/automation) - everything related to provisioning machines, configuring server environments, serving sites with Nginx, and general IT infrastructure scripts and resources
 
-## Links
+### Links
 
 * [BPR on Facebook](https://www.facebook.com/burbankparanormalresearch) (@burbankparanormalresearch)
 * [BPR on Twitter](https://twitter.com/bprcalifornia) (@bprcalifornia)
