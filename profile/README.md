@@ -31,7 +31,9 @@
 
 ### Licensing
 
-By default, all Burbank Paranormal Research code is distributed under the [MIT License](https://choosealicense.com/licenses/mit/). You are free to use, embed, modify, etc. our code in any way you wish.
+By default, all Burbank Paranormal Research code is distributed under the [MIT License](https://choosealicense.com/licenses/mit/). You are free to use, embed, modify, etc. our code in any way you wish unless otherwise specified (such as if a specific repository is licensed differently).
+
+You will always find a `LICENSE.md` file describing the software license for a repository included in its root directory.
 
 ### Notable Repositories
 
