@@ -29,6 +29,10 @@
   </p>
 </div>
 
+### Licensing
+
+By default, all Burbank Paranormal Research code is distributed under the [MIT License](https://choosealicense.com/licenses/mit/). You are free to use, embed, modify, etc. our code in any way you wish.
+
 ### Notable Repositories
 
 * [Automation](https://github.com/bprcalifornia/automation) - everything related to provisioning machines, configuring server environments, serving sites with Nginx, and general IT infrastructure scripts and resources
