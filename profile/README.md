@@ -21,7 +21,6 @@
   <p>
     The hope is that we can help other paranormal investigation teams and organizations with their IT operations by opening up our own IT infrastructure to allow internal code, products, knowledge, and ideas to be shared across disciplines.
   </p>
-  <br /><br />
   <p>
     <a href="https://github.com/matthewfritz" title="Matthew Fritz on GitHub">Matthew Fritz</a> (BPR Founder and Director) is a huge proponent of open-source software so the decision to open up our IT infrastructure is a natural one.
   </p>
@@ -30,6 +29,10 @@
     You will always be able to find the most up-to-date BPR systems in this organization!
   </p>
 </div>
+
+## Notable Repositories
+
+* [Automation](https://github.com/bprcalifornia/automation) - everything related to provisioning machines, configuring server environments, serving sites with Nginx, and general IT infrastructure scripts and resources
 
 ## Links
 
