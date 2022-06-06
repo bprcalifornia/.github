@@ -2,7 +2,7 @@
 
   <p>
     <a href="http://www.burbankparanormal.com" target="_blank">
-      <img src="https://github.com/bprcalifornia/.github/blob/main/bpr_logo.webp" alt="Burbank Paranormal Research" title="Burbank Paranormal Research" />
+      <img src="https://raw.githubusercontent.com/bprcalifornia/.github/main/profile/img/bpr_logo.webp" alt="Burbank Paranormal Research" title="Burbank Paranormal Research" />
     </a>
   </p>
   
