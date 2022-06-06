@@ -4,7 +4,7 @@
       <img src="https://raw.githubusercontent.com/bprcalifornia/.github/main/profile/img/bpr_logo.webp" alt="Burbank Paranormal Research" title="Burbank Paranormal Research" />
     </a>
   </p>
-  <h1>Burbank Paranormal Research</h1>
+  <h1>Burbank Paranormal Research<br />Engineering and Operations</h1>
 </div>
 
 ### Overview
