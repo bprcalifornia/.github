@@ -11,7 +11,7 @@
 
 <div>
   <p>
-    This is the GitHub organization for the Burbank Paranormal Research team, specifically for engineering and IT operations.
+    This is the GitHub organization for the Burbank Paranormal Research team, specifically for engineering and IT operations. Burbank Paranormal Research was founded in 2005.
   </p>
 
   <p>
@@ -21,7 +21,7 @@
     The hope is that we can help other paranormal investigation teams and organizations with their IT operations by opening up our own IT infrastructure to allow internal code, products, knowledge, and ideas to be shared across disciplines.
   </p>
   <p>
-    <a href="https://github.com/matthewfritz" title="Matthew Fritz on GitHub">Matthew Fritz</a> (BPR Founder and Director) is a huge proponent of open-source software so the decision to open up our IT infrastructure is a natural one.
+    <a href="https://github.com/matthewfritz" title="Matthew Fritz on GitHub">Matthew Fritz</a> (BPR Founder and Director) is a huge proponent of open-source software so the decision to open up our IT infrastructure for our seventeen-year anniversary (2022) is a natural one.
   </p>
 
   <p>
